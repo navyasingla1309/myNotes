@@ -1,5 +1,4 @@
 # myNotes
-This project is made for TechHacks 2.0 under the education track.
 ## COLLABORATORS
 #### Navya Singla
 #### Shirin Julka
